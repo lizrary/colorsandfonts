@@ -1,0 +1,42 @@
+h1 {
+ font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-family: 'Lora', serif;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.tealrectangle {
+  height: 50px;
+  background-color: #066465;
+  width: 100%;
+}
+  .greyrectangle {
+  height: 50px;
+  background-color: #BCBCB8;
+  width: 100%;
+  }
+  .greenrectangle {
+  height: 50px; 
+  background-color: #4A7145;
+  width: 100%;
+  }
+.brownrectangle {
+  height: 50px;
+  width: 100%;
+  background-color: #84835A;
+
+  }
+
+  .otherbluerectangle {
+  height: 50px;
+ width: 100%;
+  background-color: #1D556E;
+  }
+
+  
+
